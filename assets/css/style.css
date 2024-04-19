@@ -1,0 +1,98 @@
+html{
+    width: 1280;
+}
+body{
+    margin: 0px;
+    width: 100%;
+}
+.cabeza{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+}
+.imagen{
+    margin: 0px;
+    padding: 0px;
+}
+.img{
+    width: 100%;
+    height: 700px;
+    margin: 0px;
+}
+.parafo{
+    padding-top: 20px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    width: 30%;
+}
+.iguaan{
+    width: 45%;
+}
+.describir{
+    width: 100%;
+    margin: 0px;
+    background-color: gray;
+    display: flex;
+    width: 100%;
+    height: 300px;
+    padding: 40px;
+    justify-content: space-evenly;
+
+}
+.iconos{
+    background-color: black;
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.caracteristicas{
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+
+}
+
+.icono{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p{
+        color: white;
+        text-align:center;
+        font-size: 30px;
+    }
+    
+}
+.ico{
+    display: flex;
+    width: 30%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.galeria_imagenes{
+    display: flex;
+    justify-content: center;
+}
+.glaleria{
+    width: 34%;
+}
+.footer{
+    background-color: gray;
+    margin: 0%;
+    padding: 10px;
+    p{
+        text-align: center;
+        color: white;
+        font-size: large;
+    }
+}
